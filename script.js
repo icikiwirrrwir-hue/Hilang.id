@@ -1,4 +1,4 @@
-const STORAGE_KEY = 'lost_items';
+const STORAGE_KEY = 'lost_itemsv3';
 
 const seed = [
     {
